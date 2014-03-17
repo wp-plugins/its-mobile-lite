@@ -12,11 +12,15 @@ Ihr mobile.de Fahrzeugbestand in Wordpress. Integrates your mobile.de cars in wo
 == Description ==
 
 Integration des mobile.de Fahrzeugbestandes in Wordpress über den mobile.de Bestandslink. Wichtig: man benötigt einen mobile.de Händleraccount.
-Für eine umfangreichere Einbindung (SEO optomiert, mehrsprachig usw.) nehmen Sie bitte Kontakt zu mir auf.
+Für eine umfangreichere Einbindung (SEO optimiert, mehrsprachig usw.) nehmen Sie bitte Kontakt zu mir auf.
 
 With this plugin it is very easy to show your mobile.de vehicle stock in wordpress. Important: You have to be a registered mobile.de dealer.
 
+= Eigenschaften: =
 
+* zeigt den Fahrzeugbestand in Beiträgen oder auf Seiten
+* Layout einfach umschaltbar 
+* CSS im Administrationsbereich anpassbar
 
 = Basic Features: =
 
@@ -26,17 +30,21 @@ With this plugin it is very easy to show your mobile.de vehicle stock in wordpre
 
 = Translations =
 
-Available languages:
+Available Backend languages (in frontend no translations needed):
 german
 
 == Installation ==
 
+= deutsch =
+1. Laden sie das /itsmobile_lite/ Verzeichnis in ihr Wordpress Plugin Verzeichnis.
+2. Aktivieren Sie das Plugin in ihrem Wordpress Administrationsbereich auf der Plugin Seite. 
+3. Auf der ITS Mobile Einstellungsseite im Wordpress Administrationsbereich den mobile.de Bestandslink eintragen. 
+4. Um die Mobile.de Einbindung auf einer Seite oder in einem Beitrag anzuzeigen, einfach den Shortcode [ITSMOBILELITE] dem Seiten oder Beitragsinhalt hinzufügen.  
+
+= english =
 1. Upload the /itsmobile_lite/ directory into your WordPress plugins directory.
-
 2. Activate the plugin on your WordPress plugins page. 
-
 3. Configure ITS Mobile Lite using the ITS Mobile page in the admin panel. Especially add your 'mobile.de Bestandslink'. 
-   
 4. Edit or create a page or post on your blog and includes the shortcode [ITSMOBILELITE] 
 
 == Changelog ==
