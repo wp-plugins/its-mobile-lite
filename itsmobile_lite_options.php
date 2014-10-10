@@ -1,6 +1,4 @@
-
 <?php
-
 add_action('admin_menu', 'itsmobile_lite_create_menu');
 
 function itsmobile_lite_create_menu() {

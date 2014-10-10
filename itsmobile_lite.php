@@ -82,6 +82,7 @@ function itsmobile_lite_start()
       $mobile_link="http://".$url_array['host'].$url_array['path']."?".$url_array['query'];
    }
 ?>
+
 <?php 
    if(isset($mobile_styles))
    {
