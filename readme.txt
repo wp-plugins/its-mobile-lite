@@ -3,7 +3,7 @@ Contributors: ITS-Gering
 Donate link: http://www.its-gering.de/donate.php
 Tags: mobile.de, gebrauchtwagen, fahrzeughandel, cars, cardealer, vehicle merchant, vehicle, automobile dealer, used car dealer, bestandslink, inseratseinbindung
 Requires at least: 3.1.0
-Tested up to: 4.0
+Tested up to: 4.2.2
 License: GPLv2 or later
 Stable tag: 1.1
 
